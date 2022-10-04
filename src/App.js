@@ -3,7 +3,7 @@ import Calculadora from './components/Calculadora';
 
 const App = () => {
   return (
-    <div className='container text-center'>
+    <div className='container text-center border border-dark'>
       <h1>Calculadora - PWA</h1>
       <hr></hr>
 
